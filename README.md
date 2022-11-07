@@ -14,3 +14,8 @@ g++ h.cpp -o h.exe && h.exe
 ```terminal
 gcc desis.c -o d.exe && d.exe
 ```
+
+### c file related other file
+```terminal
+gcc -Wall -save-temps File.c -o File
+```
