@@ -19,3 +19,9 @@ gcc desis.c -o d.exe && d.exe
 ```terminal
 gcc -Wall -save-temps File.c -o File
 ```
+
+### size of exe file
+
+```terminal
+gcc Structures.c;size a.exe
+```
