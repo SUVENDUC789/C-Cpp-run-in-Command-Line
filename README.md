@@ -8,6 +8,14 @@ How to use gcc and g++ in cmd
 ```terminal
 g++ h.cpp -o h.exe && h.exe
 ```
+### c++ 14
+```
+g++ -std=c++14 file.cpp
+```
+### c++ 11
+```
+g++ -std=c++11 file.cpp
+```
 
 ## c file run in command line 
 
